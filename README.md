@@ -1,0 +1,1 @@
+Project: Stochastic Gradient descent with Variance Reduction Accelaration
